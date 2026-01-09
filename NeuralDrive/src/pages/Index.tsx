@@ -28,7 +28,7 @@ const Index = () => {
                 <span>AI ACTIVE</span>
               </div>
               <a
-                href="https://github.com"
+                href="https://github.com/Ukriyte/Self-Driving-Car"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg border border-border hover:border-primary/50 hover:bg-secondary transition-colors"
